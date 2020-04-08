@@ -33,8 +33,7 @@ header {
 .veter1 {
 	border:1px solid black;
 	margin-top:4%;
-	margin-bottom: 2%; 
-
+	background-color: white;
 }
 .image-veter1 {
 	margin-top: 1%;
@@ -60,4 +59,18 @@ h6{
 }
 em{
 	color:red;
+}
+.text-offset {
+	padding-bottom:1%;
+}
+.text-right {
+	text-align: right;
+}
+.main-text {
+	background-color:white;
+}
+main {
+	background-image: url(image/background.jpg);
+	background-attachment: fixed;
+	background-size: cover;
 }
