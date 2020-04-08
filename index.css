@@ -70,7 +70,15 @@ em{
 	background-color:white;
 }
 main {
-	background-image: url(image/background.jpg);
+	background-image: url(image/01e5439894033e33ea4dd056a68cf927_1_-1_photo.png);
 	background-attachment: fixed;
 	background-size: cover;
+}
+
+.galery{
+	border:1px solid black;
+	text-align: center;
+	margin-top:4%;
+	margin-bottom: 2%;
+	background-color: #FFF;
 }
