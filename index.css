@@ -9,6 +9,7 @@ header {
 	border-bottom:black solid 2px;
 	padding-bottom:4%;
 	padding-top:4%;
+	background-color:#dbc484;
 }
 .main-info {
 	border:1px solid black;
@@ -70,9 +71,10 @@ em{
 	background-color:white;
 }
 main {
-	background-image: url(image/01e5439894033e33ea4dd056a68cf927_1_-1_photo.png);
+	background-image: url(image/background.jpg);
 	background-attachment: fixed;
 	background-size: cover;
+	padding-bottom:2%;
 }
 
 .galery{
@@ -81,4 +83,20 @@ main {
 	margin-top:4%;
 	margin-bottom: 2%;
 	background-color: #FFF;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+.text-footer {
+	color:black;
+	padding-bottom: 1%;
+}
+footer {
+	text-align: center;
+	border-top:black solid 2px;
+	background-color:#dbc484;
+}
+.header-text {
+	background-color: white;
 }
